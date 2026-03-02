@@ -34,19 +34,23 @@
 
 <img width="1919" height="900" alt="Screenshot 2026-03-02 112834" src="https://github.com/user-attachments/assets/26a4b1ee-9363-4de5-8de3-271fef882ad4" />
 
+
 # Praktikum 2
 
 - Konfigurasi Database
 
 <img width="1428" height="702" alt="Screenshot 2026-03-02 130759" src="https://github.com/user-attachments/assets/e3e406e0-e995-4b17-b23e-0c3b57772679" />
 
+
 - Tampilan Web
 
 <img width="1905" height="837" alt="Screenshot 2026-03-02 123409" src="https://github.com/user-attachments/assets/41b3eaa3-f91f-42b6-b6a0-1f1dd0f90209" />
 
+
 - Tampilan Artikel
 
 <img width="1919" height="862" alt="Screenshot 2026-03-02 124801" src="https://github.com/user-attachments/assets/1b9e746d-1f47-4c0e-8772-7b7b5cfdc74e" />
+
 
 
 - Detail Artikel
@@ -56,9 +60,13 @@
 
 <img width="1915" height="845" alt="Screenshot 2026-03-02 124823" src="https://github.com/user-attachments/assets/6ca6af28-8a1a-4947-8adb-1c652da2adf2" />
 
+
+
 - Admin index
 
 <img width="1919" height="803" alt="Screenshot 2026-03-02 125737" src="https://github.com/user-attachments/assets/0cc99d5e-0e6b-4ea4-abae-04173c7f2895" />
+
+
 
 - Tambah Artikel
 
@@ -69,6 +77,20 @@
 
 
 <img width="1919" height="949" alt="Screenshot 2026-03-02 130002" src="https://github.com/user-attachments/assets/cb6ca26a-d290-4e33-831f-a68bddb358be" />
+
+
+
+- ketika klik ubah
+
+<img width="1602" height="692" alt="Screenshot 2026-03-02 132149" src="https://github.com/user-attachments/assets/b93e3273-2236-4bcf-86d3-10ac25801406" />
+
+
+
+- setelah klik hapus
+
+<img width="1919" height="822" alt="Screenshot 2026-03-02 132255" src="https://github.com/user-attachments/assets/a3778607-d3af-49f6-9f94-b29d164542fd" />
+
+
 
 
 
