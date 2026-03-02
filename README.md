@@ -40,27 +40,27 @@
 
 <img width="1428" height="702" alt="Screenshot 2026-03-02 130759" src="https://github.com/user-attachments/assets/e3e406e0-e995-4b17-b23e-0c3b57772679" />
 
-**Tampilan Web
+- Tampilan Web
 
 <img width="1905" height="837" alt="Screenshot 2026-03-02 123409" src="https://github.com/user-attachments/assets/41b3eaa3-f91f-42b6-b6a0-1f1dd0f90209" />
 
-# Tampilan Artikel
+- Tampilan Artikel
 
 <img width="1919" height="862" alt="Screenshot 2026-03-02 124801" src="https://github.com/user-attachments/assets/1b9e746d-1f47-4c0e-8772-7b7b5cfdc74e" />
 
 
-# Detail Artikel
+- Detail Artikel
 
 <img width="1919" height="843" alt="Screenshot 2026-03-02 124811" src="https://github.com/user-attachments/assets/fe8d8021-85c4-43e4-a86d-f0a865380112" />
 
 
 <img width="1915" height="845" alt="Screenshot 2026-03-02 124823" src="https://github.com/user-attachments/assets/6ca6af28-8a1a-4947-8adb-1c652da2adf2" />
 
-# Admin index
+- Admin index
 
 <img width="1919" height="803" alt="Screenshot 2026-03-02 125737" src="https://github.com/user-attachments/assets/0cc99d5e-0e6b-4ea4-abae-04173c7f2895" />
 
-# Tambah Artikel
+- Tambah Artikel
 
 <img width="1909" height="938" alt="Screenshot 2026-03-02 125809" src="https://github.com/user-attachments/assets/e2b26641-6a24-4cf1-8fbd-7a1d3d3cc35a" />
 
