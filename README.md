@@ -29,13 +29,17 @@
 <img width="1909" height="867" alt="Screenshot 2026-03-02 110938" src="https://github.com/user-attachments/assets/c2431b9a-343b-42c1-8fe4-6adc8f278e6c" />
 
 
+
+# Praktikum 2
+
+
 <img width="1919" height="416" alt="Screenshot 2026-03-02 111058" src="https://github.com/user-attachments/assets/9b9af0f7-27cd-44da-91c7-3c93cafaf8ee" />
 
 
 <img width="1919" height="900" alt="Screenshot 2026-03-02 112834" src="https://github.com/user-attachments/assets/26a4b1ee-9363-4de5-8de3-271fef882ad4" />
 
 
-# Praktikum 2
+# Praktikum 3
 
 - Konfigurasi Database
 
