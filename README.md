@@ -97,6 +97,20 @@
 
 
 
+# Praktikum 4
+
+username: admin
+admin@email.com
+password: admin123
+
+
+<img width="1916" height="924" alt="image" src="https://github.com/user-attachments/assets/1ff6e485-98f1-456f-b165-680573b02791" />
+
+
+
+
+
+
 
 
 
