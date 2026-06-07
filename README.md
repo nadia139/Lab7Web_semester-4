@@ -108,6 +108,17 @@ password: admin123
 
 
 
+# Praktikum 5
+
+<img width="1919" height="1012" alt="image" src="https://github.com/user-attachments/assets/c52a525b-a8c8-4860-97a0-3f8929c770f6" />
+
+
+
+<img width="1414" height="747" alt="image" src="https://github.com/user-attachments/assets/97cc8455-8965-4f9e-aca4-be6ce37e3bc6" />
+
+
+
+<img width="1739" height="1012" alt="image" src="https://github.com/user-attachments/assets/5c5d9d35-88a2-4ba9-a6f6-2e9ac5362586" />
 
 
 
