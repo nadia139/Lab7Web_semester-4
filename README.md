@@ -122,6 +122,34 @@ password: admin123
 
 
 
+# Praktikum 6
+
+<img width="1608" height="945" alt="image" src="https://github.com/user-attachments/assets/a8eb7036-025e-48db-be76-e31d9fa8675e" />
+
+
+
+# Praktikum 7
+
+<img width="1763" height="1012" alt="image" src="https://github.com/user-attachments/assets/8e899d99-fd75-4a93-9cdb-070028e839d4" />
+
+
+# Praktikum 8
+
+<img width="1719" height="1016" alt="image" src="https://github.com/user-attachments/assets/15ec508e-9b1f-49d3-9296-67bd88872b9d" />
+
+
+
+Mau menambahkan artikel
+<img width="1717" height="777" alt="image" src="https://github.com/user-attachments/assets/0a135447-0cfe-44af-aec6-3ade8ebbd783" />
+
+Klik simpan
+
+<img width="1717" height="777" alt="image" src="https://github.com/user-attachments/assets/07f374c1-5cfa-466e-a6ef-37c7cb299f08" />
+
+
+
+
+
 
 
 
