@@ -135,6 +135,11 @@ password: admin123
 
 # Praktikum 8
 
+Kita akan menggunakan pustaka jQuery untuk mempermudah proses AJAX. Download
+pustaka jQuery versi terbaru dari https://jquery.com dan ekstrak filenya.
+Salin file jquery-3.6.0.min.js ke folder public/assets/js.
+
+
 <img width="1719" height="1016" alt="image" src="https://github.com/user-attachments/assets/15ec508e-9b1f-49d3-9296-67bd88872b9d" />
 
 
@@ -142,19 +147,114 @@ password: admin123
 Mau menambahkan artikel
 <img width="1717" height="777" alt="image" src="https://github.com/user-attachments/assets/0a135447-0cfe-44af-aec6-3ade8ebbd783" />
 
+
+
 Klik simpan
 
-<img width="1717" height="777" alt="image" src="https://github.com/user-attachments/assets/07f374c1-5cfa-466e-a6ef-37c7cb299f08" />
+<img width="903" height="80" alt="image" src="https://github.com/user-attachments/assets/28b43ccf-eac8-4312-bb6c-04b9b5d81094" />
+
+
+# Praktikum 9
+
+
+<img width="1535" height="1011" alt="image" src="https://github.com/user-attachments/assets/349d66ec-8dbf-4532-a6d1-63d14d07e37f" />
+
+
+<img width="1435" height="937" alt="image" src="https://github.com/user-attachments/assets/820919d7-252c-4c1c-9a29-5092693f55d8" />
+
+
+<img width="1735" height="1000" alt="image" src="https://github.com/user-attachments/assets/5f784432-c32b-45ed-96cb-9678aa12b23b" />
+
+
+<img width="1538" height="1017" alt="image" src="https://github.com/user-attachments/assets/12c0bf7c-483e-4a58-97e6-b016feb0b197" />
+
+
+
+# Praktikum 10
+
+Untuk mengecek route nya jalankan perintah berikut:
+php spark routes
+
+<img width="1532" height="1079" alt="image" src="https://github.com/user-attachments/assets/858f9e54-afa8-4628-abcb-50f2535ef868" />
 
 
 
 
 
+Seperti yang terlihat, satu baris kode routes yang di tambahkan akan menghasilkan banyak
+Endpoint.
+Selanjutnya melakukan uji coba terhadap REST API CodeIgniter.
+
+Testing REST API CodeIgniter
+Buka aplikasi postman dan pilih create new → HTTP Request
+
+
+<img width="334" height="203" alt="image" src="https://github.com/user-attachments/assets/3d1c4c85-5be5-4db1-ac67-d46b80c097e4" />
+
+
+
+Menampilkan Semua Data
+Pilih method GET dan masukkan URL berikut:
+http://localhost:8080/post
+Lalu, klik Send. Jika hasil test menampilkan semua data artikel dari database, maka pengujian
+berhasil.
+
+
+<img width="821" height="858" alt="image" src="https://github.com/user-attachments/assets/56b85417-1338-440b-8451-f9a499c617a8" />
 
 
 
 
 
+Menampilkan Data Spesifik
+Masih menggunakan method GET, hanya perlu menambahkan ID artikel di belakang URL
+seperti ini:
+http://localhost:8080/post/2
+Selanjutnya, klik Send. Request tersebut akan menampilkan data artikel yang memiliki ID
+nomor 2 di database.
 
+
+
+<img width="1331" height="747" alt="image" src="https://github.com/user-attachments/assets/47b45127-f725-4b34-bba1-79460a1b0d1b" />
+
+
+
+
+Mengubah Data
+Untuk mengubah data, silakan ganti method menjadi PUT. Kemudian, masukkan URL artikel
+yang ingin diubah. Misalnya, ingin mengubah data artikel dengan ID nomor 2, maka masukkan
+URL berikut: http://localhost:8080/post/2
+
+
+Selanjutnya, pilih tab Body. Kemudian, pilih x-www-form-uriencoded. Masukkan nama
+atribut tabel pada kolom KEY dan nilai data yang baru pada kolom VALUE. Kalau sudah,
+klik Send.
+
+
+
+<img width="1100" height="678" alt="image" src="https://github.com/user-attachments/assets/774a294e-1639-4227-a114-3f226923e4b6" />
+
+
+
+
+<img width="1110" height="769" alt="image" src="https://github.com/user-attachments/assets/e2afd58d-8b92-42fe-85f8-0aa2e8ec15a1" />
+
+
+
+# Praktikum 10
+Buat Project baru dengan struktur file dan directory seperti berikut:
+
+
+<img width="446" height="254" alt="image" src="https://github.com/user-attachments/assets/075a03d0-b8b8-48b0-92a8-d099d42cf86e" />
+
+
+
+
+<img width="1660" height="1016" alt="image" src="https://github.com/user-attachments/assets/d9c9a3e0-fe3c-4c99-b606-6a31e5b15cac" />
+
+
+
+
+<img width="1292" height="927" alt="image" src="https://github.com/user-attachments/assets/21175251-5429-46e6-b1a8-53f87663dc51" />
 
 
