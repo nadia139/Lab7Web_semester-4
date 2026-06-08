@@ -278,3 +278,45 @@ Setelah Diedit
 
 <img width="1450" height="971" alt="image" src="https://github.com/user-attachments/assets/8264ba5d-7519-4169-8fe7-4c4dd0bcf4ba" />
 
+
+
+# Praktikum 13
+
+
+<img width="1730" height="896" alt="Screenshot 2026-06-08 223900" src="https://github.com/user-attachments/assets/4c97f84c-9a30-45af-bcc3-65dc4d076600" />
+
+
+Ketika pengguna belum login dan mencoba mengakses halaman yang membutuhkan autentikasi (seperti halaman Kelola Artikel atau About Me), sistem akan menolak akses.
+
+Hasil yang terjadi:
+1. Muncul alert "Akses Ditolak! Anda harus login terlebih dahulu."
+2. Pengguna secara otomatis diarahkan (redirect) ke halaman Login
+3. Halaman yang diproteksi tidak dapat diakses
+
+
+<img width="1624" height="952" alt="image" src="https://github.com/user-attachments/assets/ec54af90-afa9-41ff-b0be-bbb296ecba05" />
+
+
+Halaman login yang muncul setelah pengguna klik menu "Login" atau ketika diarahkan dari Navigation Guards karena mencoba mengakses halaman terproteksi.
+
+
+<img width="1691" height="817" alt="image" src="https://github.com/user-attachments/assets/c468353f-c343-4e26-b785-f58f565a2201" />
+
+
+Setelah pengguna memasukkan email dan password yang valid, sistem akan menampilkan alert "Login berhasil!" sebagai konfirmasi bahwa autentikasi sukses.
+
+Proses yang terjadi:
+1. Frontend mengirim data login ke backend API
+2. Backend memverifikasi kredensial di database
+3. Jika valid, backend mengembalikan response `status: 200`
+4. Frontend menampilkan alert "Login berhasil!"
+5. Data session disimpan ke localStorage
+6. Pengguna diarahkan ke halaman Kelola Artikel
+
+
+<img width="343" height="89" alt="image" src="https://github.com/user-attachments/assets/6015dc97-fbb1-4d9b-b402-8f30c3190ac3" />
+
+
+Setelah pengguna berhasil login, menu "Login" secara otomatis berubah menjadi "Logout (admin)" yang menampilkan nama pengguna yang sedang aktif.
+
+
