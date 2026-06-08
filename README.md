@@ -268,13 +268,6 @@ Buat Project baru dengan struktur file dan directory seperti berikut:
 
 
 
-Sebelum diedit
-
-
-<img width="1434" height="916" alt="image" src="https://github.com/user-attachments/assets/21c84814-f53f-41ec-b34f-a15db592d636" />
-
-
-
 Halaman Edit Profi
 
 <img width="1440" height="997" alt="image" src="https://github.com/user-attachments/assets/50d6206c-0ce7-4b86-80a7-c3b96789572d" />
