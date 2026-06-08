@@ -241,7 +241,7 @@ klik Send.
 
 
 
-# Praktikum 10
+# Praktikum 11
 Buat Project baru dengan struktur file dan directory seperti berikut:
 
 
@@ -257,4 +257,31 @@ Buat Project baru dengan struktur file dan directory seperti berikut:
 
 <img width="1292" height="927" alt="image" src="https://github.com/user-attachments/assets/21175251-5429-46e6-b1a8-53f87663dc51" />
 
+
+
+# Praktikum 12
+
+<img width="1725" height="889" alt="image" src="https://github.com/user-attachments/assets/5bfaf4b8-0567-4676-9be7-d49233dcf5dd" />
+
+
+<img width="1714" height="1008" alt="image" src="https://github.com/user-attachments/assets/82800fe2-8e6c-43a7-85b3-d5f842686b53" />
+
+
+
+Sebelum diedit
+
+
+<img width="1434" height="916" alt="image" src="https://github.com/user-attachments/assets/21c84814-f53f-41ec-b34f-a15db592d636" />
+
+
+
+Halaman Edit Profi
+
+<img width="1440" height="997" alt="image" src="https://github.com/user-attachments/assets/50d6206c-0ce7-4b86-80a7-c3b96789572d" />
+
+
+
+Setelah Diedit
+
+<img width="1450" height="971" alt="image" src="https://github.com/user-attachments/assets/8264ba5d-7519-4169-8fe7-4c4dd0bcf4ba" />
 
