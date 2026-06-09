@@ -335,10 +335,16 @@ Filter apiauth diterapkan khusus pada route yang melakukan manipulasi data (POST
 Langkah 2.1 - Menambahkan Interceptor Global di assets/js/app.js
 Ditambahkan konfigurasi Axios Interceptors sebelum inisialisasi aplikasi VueJS. Interceptor request berfungsi mengambil token dari localStorage dan menyuntikkannya ke HTTP Header Authorization: Bearer <token> secara otomatis pada setiap request keluar. Interceptor response berfungsi menangkap error 401 secara global dan memaksa pengguna logout jika token tidak valid.
 
+
+
 Akses API Tanpa Token (Postman) Request POST ke endpoint /post tanpa menyertakan token di Header menghasilkan response 401 Unauthorized.
 
 
 <img width="1105" height="705" alt="image" src="https://github.com/user-attachments/assets/8a048869-8a80-4521-8185-bc9b43ecaaaa" />
+
+
+
+
 
 
 
@@ -351,6 +357,10 @@ Operasi Edit artikel berhasil dijalankan dengan response "Data berhasil diupdate
 
 
 <img width="1079" height="495" alt="image" src="https://github.com/user-attachments/assets/c8206f1c-6ff1-4cec-bab5-4479fd964fae" />
+
+
+
+
 
 
 
