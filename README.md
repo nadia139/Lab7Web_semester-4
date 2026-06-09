@@ -294,6 +294,8 @@ Hasil yang terjadi:
 
 
 
+
+
 Halaman login yang muncul setelah pengguna klik menu "Login" atau ketika diarahkan dari Navigation Guards karena mencoba mengakses halaman terproteksi.
 
 
@@ -318,9 +320,28 @@ Proses yang terjadi:
 
 
 
+
+
 Setelah pengguna berhasil login, menu "Login" secara otomatis berubah menjadi "Logout (admin)" yang menampilkan nama pengguna yang sedang aktif.
 
 
 <img width="343" height="89" alt="image" src="https://github.com/user-attachments/assets/6015dc97-fbb1-4d9b-b402-8f30c3190ac3" />
 
+
+
+# Praktikum 14
+
+<img width="1105" height="705" alt="image" src="https://github.com/user-attachments/assets/8a048869-8a80-4521-8185-bc9b43ecaaaa" />
+
+
+
+<img width="1911" height="1005" alt="image" src="https://github.com/user-attachments/assets/48a6c74f-86a0-4a4d-b1d8-88aca731809e" />
+
+
+
+<img width="1079" height="495" alt="image" src="https://github.com/user-attachments/assets/c8206f1c-6ff1-4cec-bab5-4479fd964fae" />
+
+
+
+Authorization: Bearer 
 
