@@ -342,6 +342,6 @@ Setelah pengguna berhasil login, menu "Login" secara otomatis berubah menjadi "L
 <img width="1079" height="495" alt="image" src="https://github.com/user-attachments/assets/c8206f1c-6ff1-4cec-bab5-4479fd964fae" />
 
 
+Authorization: Bearer <img width="711" height="337" alt="Screenshot 2026-06-09 132926" src="https://github.com/user-attachments/assets/8ab39bcc-7144-4104-9184-88809dfa1662" />
 
-Authorization: Bearer 
 
